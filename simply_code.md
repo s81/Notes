@@ -24,4 +24,3 @@
   - Lazy evaluation.
   - Strongly-Typed.
   - Declarative Style.
-  - 
