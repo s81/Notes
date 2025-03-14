@@ -2,4 +2,4 @@
 
 - First Pick **any tools**.
 - Train with full projects, until **master** it.
-- think in project...s 
+- think in project... 
